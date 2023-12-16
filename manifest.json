@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Typing Practicer Pro",
+  "description": "KeySwift",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Typing Practicer Pro",
+  "name": "KeySwift",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Typing Practicer Pro",
+  "short_name": "KeySwift",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Typing Practicer Pro",
+      "name": "KeySwift",
       "url": "",
       "description": ""
     }
