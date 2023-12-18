@@ -54,5 +54,8 @@
     }
   ],
   "lang": "en",
-  "iarc_rating_id": "8979c1da-6067-42ee-9407-49be6c9e6a5a"
+  "iarc_rating_id": "8979c1da-6067-42ee-9407-49be6c9e6a5a",
+  "display_override": [
+    "window-controls-overlay"
+  ]
 }
