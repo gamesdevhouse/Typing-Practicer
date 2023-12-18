@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "KeySwift",
+  "description": "Improve your typing speed with KeySwift",
   "dir": "ltr",
   "display": "standalone",
   "name": "KeySwift",
@@ -50,7 +50,7 @@
     {
       "name": "KeySwift",
       "url": "",
-      "description": ""
+      "description": "Improve your typing speed with KeySwift"
     }
   ]
 }
