@@ -4,7 +4,7 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "KeySwift",
-  "orientation": "any",
+  "orientation": "landscape",
   "scope": "/",
   "short_name": "KeySwift",
   "start_url": "/",
@@ -52,5 +52,7 @@
       "url": "",
       "description": "Improve your typing speed with KeySwift"
     }
-  ]
+  ],
+  "lang": "en",
+  "iarc_rating_id": "8979c1da-6067-42ee-9407-49be6c9e6a5a"
 }
